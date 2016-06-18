@@ -1,5 +1,5 @@
 ### Status
-[![Build Status](https://travis-ci.org/RowlandOti/AlgorithmAndDataStructure.svg?branch=master)](https://travis-ci.org/RowlandOti/AlgorithmAndDataStructure)
+[![Build Status](https://travis-ci.org/RowlandOti/HackerRankSolutions.svg?branch=master)](https://travis-ci.org/RowlandOti/HackerRankSolutions)
 
 # HackerRank Solutions
 Collection of all my solutions to the HackerRank (www.hackerrank.com) problems and challenges.
@@ -20,7 +20,7 @@ Collection of all my solutions to the HackerRank (www.hackerrank.com) problems a
 
 If you would like to contribute , kindly fork the project and create a pull request. 
 
-Preview: 
+## Illustration: 
 
-![Alt text](https://github.com/RowlandOti/AlgorithmAndDataStructure/blob/master/art/art.jpg?raw=true "AlgorithmAndDataStructure Illustration")
+![Alt text](https://github.com/RowlandOti/HackerRankSolutions/blob/master/art/art.jpg?raw=true "HackerRankSolutions Illustration")
 
