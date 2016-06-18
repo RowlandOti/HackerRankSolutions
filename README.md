@@ -5,12 +5,17 @@
 Collection of all my solutions to the HackerRank (www.hackerrank.com) problems and challenges.
 
 ## Problems
-- Heap Permutations
-- Heap Sort
-- Insertion Sort
-- Selection Sort
-- Binary Search
-- Linear Search
+- Minion Hierarchy 
+- Array Reverse Iteration
+- BigSum Array
+- Factory Pattern
+- Reflection
+- VolleyBall Team Win/Lose
+- Interface, Abstract  and Inner private/static Classes
+- Primality checker for Prime Numbers
+- Array Similarity
+- Number Permutation
+- String Char Permutation
 
 
 If you would like to contribute , kindly fork the project and create a pull request. 
